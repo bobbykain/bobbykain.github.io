@@ -6,4 +6,4 @@ summary: My first post
 categories: jekyll pixyll
 ---
 
-Test post to my website, written in markdown which is cool
+Test post to my website. Written in markdown and mobile friendly, which is cool
