@@ -4,13 +4,35 @@ img.profile {
     width: 300px;
 }
 
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 body {
     font-family: 'Ubuntu', sans-serif;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+main {
+  flex: 1;
+}
+
+footer {
+  /* Trivial style to differentiate the footer */
+  text-align: center;
+  background-color: #fafafa;
+  border-top: thin solid #f3f3f3;
+  color: #7a7a7a;
+  text-align: center;
 }
 
 a.social {
   padding-right: 1em;
-  color: #222;
+  color: #333;
   text-decoration: none;
   box-shadow: none;
   text-shadow: none;
