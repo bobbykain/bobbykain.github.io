@@ -1,0 +1,30 @@
+img.profile {
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+}
+
+body {
+    font-family: "Ubuntu";
+}
+
+a.social {
+/*  padding: 1em;*/
+  color: #222;
+  text-decoration: none;
+  box-shadow: none;
+  text-shadow: none;
+  background-image: none;
+}
+
+a.social:hover {
+  color: #1EAEDB;
+  text-decoration: none;
+  box-shadow: none;
+  text-shadow: none;
+  background-image: none;
+}
+
+a.w-padding {
+  padding: 1em;
+}
