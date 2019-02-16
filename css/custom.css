@@ -22,7 +22,6 @@ main {
 }
 
 footer {
-  /* Trivial style to differentiate the footer */
   text-align: center;
   background-color: #fafafa;
   border-top: thin solid #f3f3f3;
@@ -45,4 +44,12 @@ a.social:hover {
   box-shadow: none;
   text-shadow: none;
   background-image: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #188fb4;
 }
