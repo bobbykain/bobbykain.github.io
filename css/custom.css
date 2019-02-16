@@ -10,11 +10,11 @@ html, body {
 }
 
 body {
-    font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 main {
@@ -51,6 +51,15 @@ a {
 }
 
 a:hover {
-/*  color: #188fb4;*/
   text-decoration: underline;
+}
+
+
+.container_row{
+  display: grid;
+}
+
+.layer1, .layer2, .layer3, .layer4{
+  grid-column: 1;
+  grid-row: 1;
 }
