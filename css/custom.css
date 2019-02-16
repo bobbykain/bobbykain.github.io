@@ -51,5 +51,6 @@ a {
 }
 
 a:hover {
-  color: #188fb4;
+/*  color: #188fb4;*/
+  text-decoration: underline;
 }
