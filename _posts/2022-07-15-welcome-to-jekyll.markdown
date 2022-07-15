@@ -1,29 +1,38 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2022-07-15 14:52:30 -0600
-categories: jekyll update
+title:  "Misc"
+date:   2022-07-15
+categories:
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+[github pages](http://jmcglone.com/guides/github-pages/)
 
-`YEAR-MONTH-DAY-title.MARKUP`
+[practicalnetworking osi model](https://www.practicalnetworking.net/series/packet-traveling/osi-model/)
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+[practicalnetworking osi model archive](https://web.archive.org/web/20220715143928/https://www.practicalnetworking.net/series/packet-traveling/osi-model/)
 
-Jekyll also offers powerful support for code snippets:
+[practicalnetworking key players](https://www.practicalnetworking.net/series/packet-traveling/key-players/)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[practicalnetworking key players archive](https://web.archive.org/web/20220715223830/https://www.practicalnetworking.net/series/packet-traveling/key-players/)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[practicalnetworking host to host](https://www.practicalnetworking.net/series/packet-traveling/host-to-host/)
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[practicalnetworking host to host archive](https://web.archive.org/web/20220715224032/https://www.practicalnetworking.net/series/packet-traveling/host-to-host/)
+
+[practicalnetworking host to host through a switch](https://www.practicalnetworking.net/series/packet-traveling/host-to-host-through-a-switch/)
+
+[practicalnetworking host to host through a switch archive](https://web.archive.org/web/20220715224329/https://www.practicalnetworking.net/series/packet-traveling/host-to-host-through-a-switch/)
+
+[practicalnetworking host to host through a router](https://www.practicalnetworking.net/series/packet-traveling/host-to-host-through-a-router/)
+
+[practicalnetworking host to host through a router archive](https://web.archive.org/web/20220715224529/https://www.practicalnetworking.net/series/packet-traveling/host-to-host-through-a-router/)
+
+[practicalnetworking packet traveling series finale](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling-series-finale/)
+
+[practicalnetworking packet traveling series finale archive](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling-series-finale/)
+
+[jekyll-docs](https://jekyllrb.com/docs/home)
+
+[jekyll-gh](https://github.com/jekyll/jekyll)
+
+[jekyll-talk](https://talk.jekyllrb.com/)
