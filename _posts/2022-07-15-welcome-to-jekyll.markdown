@@ -29,7 +29,7 @@ categories:
 
 [practicalnetworking packet traveling series finale](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling-series-finale/)
 
-[practicalnetworking packet traveling series finale archive](https://www.practicalnetworking.net/series/packet-traveling/packet-traveling-series-finale/)
+[practicalnetworking packet traveling series finale archive](https://web.archive.org/web/20220715225710/https://www.practicalnetworking.net/series/packet-traveling/packet-traveling-series-finale/)
 
 [jekyll-docs](https://jekyllrb.com/docs/home)
 
