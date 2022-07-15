@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test"
+date:   2022-07-15 14:52:30 -0600
+categories:
+---
+Some pictures of our new dog, Daisy. She is a portugese water dog born on April 20th:
+
+![daisy-1](/img/daisy/daisy-1.jpg){:height="50%" width="50%"}
+
+![daisy-2](/img/daisy/daisy-2.jpg){:height="50%" width="50%"}
