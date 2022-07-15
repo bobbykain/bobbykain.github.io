@@ -31,6 +31,10 @@ categories:
 
 [practicalnetworking packet traveling series finale archive](https://web.archive.org/web/20220715225710/https://www.practicalnetworking.net/series/packet-traveling/packet-traveling-series-finale/)
 
+[Heavy Networking 502: Get Off My VLAN! Old Network Engineers On What New Engineers Should Know](https://packetpushers.net/podcast/heavy-networking-502-get-off-my-vlan-old-network-engineers-on-what-new-engineers-should-know/)
+
+[Heavy Networking 502: Get Off My VLAN! Old Network Engineers On What New Engineers Should Know mp3](/assets/audio/HN_502_Get_Off_My_VLAN_Old_Network_Engineers_On_What_New_Engineers_Should_Know.mp3)
+
 [jekyll-docs](https://jekyllrb.com/docs/home)
 
 [jekyll-gh](https://github.com/jekyll/jekyll)
