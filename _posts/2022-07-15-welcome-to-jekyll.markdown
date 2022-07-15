@@ -47,6 +47,8 @@ categories:
 
 [bridging & routing archive](https://web.archive.org/web/20220715231510/https://blog.ipspace.net/2010/07/bridging-and-routing-is-there.html)
 
+[systems approach](https://book.systemsapproach.org/index.html)
+
 [jekyll-docs](https://jekyllrb.com/docs/home)
 
 [jekyll-gh](https://github.com/jekyll/jekyll)
