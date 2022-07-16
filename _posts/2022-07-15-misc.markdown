@@ -79,6 +79,16 @@ categories:
 
 [Address Resolution Protocol](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html)
 
+[Address Resolution Protocol archive](https://web.archive.org/web/20220601092345/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html)
+
+[Ethernet](https://erg.abdn.ac.uk/users/gorry/course/lan-pages/enet.html)
+
+[Ethernet Archive](https://web.archive.org/web/20220318222332/https://erg.abdn.ac.uk/users/gorry/course/lan-pages/enet.html)
+
+[IPv4 over Ethernet](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip-enet.html)
+
+[IPv4 over Ethernet archive](https://web.archive.org/web/20190328224321/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip-enet.html)
+
 [systems approach](https://book.systemsapproach.org/index.html)
 
 [jekyll-docs](https://jekyllrb.com/docs/home)
