@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Puppy 🐶"
+date:   2022-07-15
+categories:
+---
+Some pictures of our dog, Daisy. She's a portugese water dog born on April 20th:
+
+![daisy-1](/img/daisy/daisy-1.jpg){:height="49%" width="49%"} ![daisy-2](/img/daisy/daisy-2.jpg){:height="49%" width="49%"}
+![daisy-3](/img/daisy/daisy-3.jpg){:height="49%" width="49%"} ![daisy-4](/img/daisy/daisy-4.jpg){:height="49%" width="49%"}
+![daisy-5](/img/daisy/daisy-5.jpg){:height="49%" width="49%"} ![daisy-6](/img/daisy/daisy-6.jpg){:height="49%" width="49%"}
+![daisy-7](/img/daisy/daisy-7.jpg){:height="49%" width="49%"} ![daisy-8](/img/daisy/daisy-8.jpg){:height="49%" width="49%"}

@@ -11,10 +11,6 @@ categories:
 
 [practicalnetworking osi model archive](https://web.archive.org/web/20220715143928/https://www.practicalnetworking.net/series/packet-traveling/osi-model/)
 
-[osi model](https://erg.abdn.ac.uk/users/gorry/course/intro-pages/osi.html)
-
-[osi model archive](https://web.archive.org/web/20210507061431/https://erg.abdn.ac.uk/users/gorry/course/intro-pages/osi.html)
-
 [practicalnetworking key players](https://www.practicalnetworking.net/series/packet-traveling/key-players/)
 
 [practicalnetworking key players archive](https://web.archive.org/web/20220715223830/https://www.practicalnetworking.net/series/packet-traveling/key-players/)
@@ -52,8 +48,6 @@ categories:
 [Configuring VLANS Archive](https://web.archive.org/web/20220716022934/https://www.practicalnetworking.net/stand-alone/configuring-vlans/)
 
 [Routing between vlans](https://www.practicalnetworking.net/stand-alone/routing-between-vlans/)
-
-[Routing between vlans archive](https://web.archive.org/web/20220716023057/https://www.practicalnetworking.net/stand-alone/routing-between-vlans/)
 
 [Eigrp Metric](https://www.practicalnetworking.net/stand-alone/eigrp-metric/)
 
@@ -94,22 +88,6 @@ categories:
 [IPv4 over Ethernet](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip-enet.html)
 
 [IPv4 over Ethernet archive](https://web.archive.org/web/20190328224321/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip-enet.html)
-
-[Godred Fairhurst - Encapsulation](https://erg.abdn.ac.uk/users/gorry/course/intro-pages/encapsulation.html)
-
-[Godred Fairhurst - Encapsulation archive](https://web.archive.org/web/20220716030758/https://erg.abdn.ac.uk/users/gorry/course/intro-pages/encapsulation.html)
-
-[transport](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/transport.html)
-
-[transport archive](https://web.archive.org/web/20210623000932/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/transport.html)
-
-[Godred Fairhurst - TCP](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/tcp.html)
-
-[Godred Fairhurst - TCP archive](https://web.archive.org/web/20220716030758/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/tcp.html)
-
-[Godred Fairhurst - UDP](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/udp.html)
-
-[Godred Fairhurst - UDP arhive](https://web.archive.org/web/20220716030758/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/udp.html)
 
 [systems approach](https://book.systemsapproach.org/index.html)
 
