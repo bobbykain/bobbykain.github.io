@@ -39,6 +39,16 @@ categories:
 
 [Traditional Arp archive](https://web.archive.org/web/20220715230817/https://www.practicalnetworking.net/series/arp/traditional-arp/)
 
+[VLANS](https://www.practicalnetworking.net/stand-alone/vlans/)
+
+[VLANS Archive](https://web.archive.org/web/20220716011650/https://www.practicalnetworking.net/stand-alone/vlans/)
+
+[Configuring VLANS](https://www.practicalnetworking.net/stand-alone/configuring-vlans/)
+
+[Configuring VLANS Archive](https://web.archive.org/web/20220716022934/https://www.practicalnetworking.net/stand-alone/configuring-vlans/)
+
+[Routing between vlans](https://www.practicalnetworking.net/stand-alone/routing-between-vlans/)
+
 [Eigrp Metric](https://www.practicalnetworking.net/stand-alone/eigrp-metric/)
 
 [Eigrp Metric Archive](https://web.archive.org/web/20220715231149/https://www.practicalnetworking.net/stand-alone/eigrp-metric/)
@@ -46,6 +56,28 @@ categories:
 [bridging & routing](https://blog.ipspace.net/2010/07/bridging-and-routing-is-there.html)
 
 [bridging & routing archive](https://web.archive.org/web/20220715231510/https://blog.ipspace.net/2010/07/bridging-and-routing-is-there.html)
+
+[Ethernet Bridges & Switches](https://erg.abdn.ac.uk/users/gorry/course/lan-pages/bridge.html)
+
+[Ethernet Bridges & Switches archive](https://web.archive.org/web/20220716023804/https://erg.abdn.ac.uk/users/gorry/course/lan-pages/bridge.html)
+
+[The Spanning Tree Algorithm](https://erg.abdn.ac.uk/users/gorry/course/lan-pages/STP.html)
+
+[The Spanning Tree Algorithm archive](https://web.archive.org/web/20220716025711/https://erg.abdn.ac.uk/users/gorry/course/lan-pages/STP.html)
+
+[Routers](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/router.html)
+
+[Routers archive](https://web.archive.org/web/20220716030429/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/router.html)
+
+[Operation of a Router](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/router-opn.html)
+
+[Operation of a Router archive](https://web.archive.org/web/20220716030604/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/router-opn.html)
+
+[The Internetwork Protocol](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip.html)
+
+[The Internetwork Protocol archive](https://web.archive.org/web/20220716030754/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip.html)
+
+[Address Resolution Protocol](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html)
 
 [systems approach](https://book.systemsapproach.org/index.html)
 
