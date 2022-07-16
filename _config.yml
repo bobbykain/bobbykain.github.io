@@ -2,16 +2,16 @@
 title:               errdisabled.net
 tagline:             'A networking site'
 description:         'Work in progress..'
-url:                 http://lanyon.getpoole.com
+url:                 http://http://errdisabled.net/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
+  name:              Robert Kain
   url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  email:             robertkain@pm.me
 
 # Gems
 plugins:
