@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "ARP"
+date:   2022-07-16
+categories:
+---
+
+## **Address Resolution Protocol**
+
+### Useful references
+* [Ed Harmoush - Traditional ARP](https://www.practicalnetworking.net/series/arp/traditional-arp/)<!---https://web.archive.org/web/20220715230817/https://www.practicalnetworking.net/series/arp/traditional-arp/-->
+* [Godred Fairhurst - ARP](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html)<!---https://web.archive.org/web/20220601092345/https://erg.abdn.ac.uk/users/gorry/course/inet-pages/arp.html-->
+
+![arp-gif](/assets/img/arp/traditional-arp-process.gif){:height="49%" width="49%"}
+
+![arp-ex](/assets/img/arp/arp-eg.gif)
