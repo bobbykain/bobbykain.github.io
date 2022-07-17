@@ -28,7 +28,7 @@ categories:
 * Coaxial Cable
 * Optical Fiber
 
-![physical](/assets/img/osi-model/physical-layer.jpg)
+![physical](/assets/img/osi-model/physical-layer.jpg){:height="49%" width="49%"}
 
 ### **Datalink Layer (Layer 2)**
 * [Godred Fairhurst - Ethernet](https://erg.abdn.ac.uk/users/gorry/course/lan-pages/enet.html)
@@ -49,8 +49,8 @@ categories:
 * ARP EtherType value: 0x0806
 * MTU (maximum payload): 1500 bytes
 
-![ethernet-header](/assets/img/osi-model/ethernet-header.jpg)
-![datalink](/assets/img/osi-model/datalink-layer.jpg)
+![ethernet-header](/assets/img/osi-model/ethernet-header.jpg){:height="75%" width="75%"}
+![datalink](/assets/img/osi-model/datalink-layer.jpg){:height="49%" width="49%"}
 
 ### **Network Layer (Layer 3)**
 * [Godred Fairhurst - IP](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip.html)
@@ -81,7 +81,7 @@ categories:
 * MTU (datagram size): 20 bytes (minimum) to 64KB/65,536 bytes (maximum)
 
 ![network](/assets/img/osi-model/ipv4-header.png)
-![network](/assets/img/osi-model/network-layer.jpg)
+![network](/assets/img/osi-model/network-layer.jpg){:height="49%" width="49%"}
 
 ### **Transport Layer (Layer 4)**
 * [Godred Fairhurst - Transport](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/transport.html)
@@ -109,4 +109,4 @@ categories:
 
 ![udp-header](/assets/img/osi-model/udp-header.gif)
 ![peer-layer](/assets/img/osi-model/peer-layer.gif)
-![network](/assets/img/osi-model/transport-layer.jpg)
+![network](/assets/img/osi-model/transport-layer.jpg){:height="49%" width="49%"}
