@@ -106,7 +106,7 @@ categories:
 * Flow Controlled
 * Header size: 20 bytes (min) to 60 bytes (max)
 
-![tcp-header](/assets/img/osi-model/tcpheader.jpg)
+![tcp-header](/assets/img/osi-model/tcpheader.jpg){: .center-image }
 
 #### UDP (User Datagram Protocol)
 * Connectionless, Best Effort
@@ -117,6 +117,8 @@ categories:
     * UDP length: The number of bytes comprising the combined UDP header information and payload data
     * UDP Checksum: A checksum to verify that the end to end data has not been corrupted by routers or bridges in the network or by the processing in an end system.
 
-![udp-header](/assets/img/osi-model/udp-header.gif)
-![peer-layer](/assets/img/osi-model/peer-layer.gif)
-![network](/assets/img/osi-model/transport-layer.jpg){:height="49%" width="49%"}
+![udp-header](/assets/img/osi-model/udp-header.gif){: .center-image }
+
+![peer-layer](/assets/img/osi-model/peer-layer.gif){: .center-image }
+
+![network](/assets/img/osi-model/transport-layer.jpg){:height="49%" width="49%" .center-image}
