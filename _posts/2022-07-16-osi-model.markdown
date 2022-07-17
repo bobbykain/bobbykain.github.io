@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Network Fundamentals"
+title:  "OSI Model"
 date:   2022-07-16
 categories:
 ---
 
-## **OSI (Open Systems Interconnection) Model**
+## **Open Systems Interconnection Model**
 
 ### Useful references
 * [Ed Harmoush - OSI Model](https://www.practicalnetworking.net/series/packet-traveling/osi-model/)<!---https://web.archive.org/web/20220715143928/https://www.practicalnetworking.net/series/packet-traveling/osi-model/-->
@@ -88,8 +88,8 @@ categories:
     * Options: These options contain values and settings for things related to security.
 * MTU (datagram size): 20 bytes (minimum) to 64KB/65,536 bytes (maximum)
 
-![network](/assets/img/osi-model/ipv4-header.png)
-![network](/assets/img/osi-model/network-layer.jpg){:height="49%" width="49%"}
+![network](/assets/img/osi-model/ipv4-header.png){: .center-image }
+![network](/assets/img/osi-model/network-layer.jpg){:height="49%" width="49%" .center-image}
 
 --------------------------------------------------------------------------------------------------------------
 
