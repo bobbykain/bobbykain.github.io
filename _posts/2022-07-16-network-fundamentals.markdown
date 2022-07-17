@@ -12,9 +12,10 @@ categories:
 * [Godred Fairhurst - OSI Model](https://erg.abdn.ac.uk/users/gorry/course/intro-pages/osi.html)<!---https://web.archive.org/web/20210507061431/https://erg.abdn.ac.uk/users/gorry/course/intro-pages/osi.html-->
 * [Godred Fairhurst - Encapsulation](https://erg.abdn.ac.uk/users/gorry/course/intro-pages/encapsulation.html)<!---https://web.archive.org/web/20220716030758/https://erg.abdn.ac.uk/users/gorry/course/intro-pages/encapsulation.html-->
 
-![osi-gif](/assets/img/osi-model/packtrav-encap-decap.gif)
-![osi](/assets/img/osi-model/osi.gif)
-![osi-encap](/assets/img/osi-model/osi-encapsulation.gif)
+![osi-gif](/assets/img/osi-model/packtrav-encap-decap.gif){: .center-image }
+
+![osi](/assets/img/osi-model/osi.gif){:height="49%" width="49%"}
+![osi-encap](/assets/img/osi-model/osi-encapsulation.gif){:height="49%" width="49%"}
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -30,7 +31,7 @@ categories:
 * Coaxial Cable
 * Optical Fiber
 
-![physical](/assets/img/osi-model/physical-layer.jpg){:height="49%" width="49%"}
+![physical](/assets/img/osi-model/physical-layer.jpg){:height="49%" width="49%" .center-image}
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -53,8 +54,9 @@ categories:
 * ARP EtherType value: 0x0806
 * MTU (maximum payload): 1500 bytes
 
-![ethernet-header](/assets/img/osi-model/ethernet-header.jpg){:height="75%" width="75%"}
-![datalink](/assets/img/osi-model/datalink-layer.jpg){:height="49%" width="49%"}
+![ethernet-header](/assets/img/osi-model/ethernet-header.jpg){:height="75%" width="75%" .center-image}
+
+![datalink](/assets/img/osi-model/datalink-layer.jpg){:height="49%" width="49%" .center-image}
 
 --------------------------------------------------------------------------------------------------------------
 
@@ -71,19 +73,19 @@ categories:
 
 #### IPv4 Header
 * 20 bytes (minimum) to 60 bytes (maximum)
-* Version (IPv4): 0100
-* Internet Header Length: 20 bytes to 60 bytes
-* Type of Server (aka Differentiated Services Code Point): QoS
-* Total Length: Used to denote the size of the entire datagram.
-* Identification: The identification or ID field in a packet can identify an IP datagram’s fragments uniquely.
-* Flags: Flag in an IPv4 header is a three-bit field that is used to control and identify fragments.
-* Fragment Offset: These are used to specify the offset of a fragment relative to the start of the IP datagram, which when it was not fragmented. As you can expect, the first offset of a fragment is always set to zero.
-* Time to live: Indicates the maximum time the datagram will be live in the internet system.
-* Protocol: Denotes which protocol is used in the later (data) portion of the datagram. For Example, number 6 is used to denote TCP and 17 is used to denote UDP protocol.
-* Checksum: Used to check the header for any errors. The header is compared to the value of its checksum at each hop, and in case the header checksum is not matching, the packet is discarded.
-* Source Address: 32-bit address of the source of the IPv4 packet.
-* Destination Address: 32-bit address of the destination of the IPv4 packet.
-* Options: These options contain values and settings for things related to security.
+    * Version (IPv4): 0100
+    * Internet Header Length: 20 bytes to 60 bytes
+    * Type of Server (aka Differentiated Services Code Point): QoS
+    * Total Length: Used to denote the size of the entire datagram.
+    * Identification: The identification or ID field in a packet can identify an IP datagram’s fragments uniquely.
+    * Flags: Flag in an IPv4 header is a three-bit field that is used to control and identify fragments.
+    * Fragment Offset: These are used to specify the offset of a fragment relative to the start of the IP datagram, which when it was not fragmented. As you can expect, the first offset of a fragment is always set to zero.
+    * Time to live: Indicates the maximum time the datagram will be live in the internet system.
+    * Protocol: Denotes which protocol is used in the later (data) portion of the datagram. For Example, number 6 is used to denote TCP and 17 is used to denote UDP protocol.
+    * Checksum: Used to check the header for any errors. The header is compared to the value of its checksum at each hop, and in case the header checksum is not matching, the packet is discarded.
+    * Source Address: 32-bit address of the source of the IPv4 packet.
+    * Destination Address: 32-bit address of the destination of the IPv4 packet.
+    * Options: These options contain values and settings for things related to security.
 * MTU (datagram size): 20 bytes (minimum) to 64KB/65,536 bytes (maximum)
 
 ![network](/assets/img/osi-model/ipv4-header.png)
