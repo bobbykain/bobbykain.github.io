@@ -16,6 +16,8 @@ categories:
 ![osi](/assets/img/osi-model/osi.gif)
 ![osi-encap](/assets/img/osi-model/osi-encapsulation.gif)
 
+--------------------------------------------------------------------------------------------------------------
+
 ### **Physical Layer (Layer 1)**
 * [Godred Fairhurst - Physical Layer](https://erg.abdn.ac.uk/users/gorry/course/phy-pages/phy.html)<!---https://web.archive.org/web/20210428021349/https://erg.abdn.ac.uk/users/gorry/course/phy-pages/phy.html-->
 * Two communicating devices are linked through a physical medium. This physical medium is used to transfer an electrical or optical signal between two directly connected devices.
@@ -29,6 +31,8 @@ categories:
 * Optical Fiber
 
 ![physical](/assets/img/osi-model/physical-layer.jpg){:height="49%" width="49%"}
+
+--------------------------------------------------------------------------------------------------------------
 
 ### **Datalink Layer (Layer 2)**
 * [Godred Fairhurst - Ethernet](https://erg.abdn.ac.uk/users/gorry/course/lan-pages/enet.html)
@@ -51,6 +55,8 @@ categories:
 
 ![ethernet-header](/assets/img/osi-model/ethernet-header.jpg){:height="75%" width="75%"}
 ![datalink](/assets/img/osi-model/datalink-layer.jpg){:height="49%" width="49%"}
+
+--------------------------------------------------------------------------------------------------------------
 
 ### **Network Layer (Layer 3)**
 * [Godred Fairhurst - IP](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/ip.html)
@@ -82,6 +88,8 @@ categories:
 
 ![network](/assets/img/osi-model/ipv4-header.png)
 ![network](/assets/img/osi-model/network-layer.jpg){:height="49%" width="49%"}
+
+--------------------------------------------------------------------------------------------------------------
 
 ### **Transport Layer (Layer 4)**
 * [Godred Fairhurst - Transport](https://erg.abdn.ac.uk/users/gorry/course/inet-pages/transport.html)
