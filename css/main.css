@@ -1,7 +1,8 @@
 body {
     font-family: 'Roboto Mono', monospace;
     margin: 60px auto;
-    width: 70%;
+    width: 90%;
+    background: #2c2f33;
 }
 nav ul, footer ul {
     font-family: 'Roboto Mono', monospace;
@@ -15,29 +16,32 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #99aab5;
 }
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 3em;
+h1, h2, h3, h4, h5, h6, ul, li, ol, em, strong, p {
     font-family: 'Roboto Mono', monospace;
+    color: #f9f9f9;
+    font-size: .9em;
 }
-p {
-    font-family: 'Roboto Mono', monospace;
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
+/*ul {
+    margin-top: -10px;
+    margin-left: -15px;
+}*/
+/*ul.footer {
+    margin-top: 0;
+    margin-left: 0;
+}*/
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    color: #f9f9f9;
 }
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
 }
 
 ul.posts li {
